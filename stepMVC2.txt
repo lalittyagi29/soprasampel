@@ -1,0 +1,10 @@
+1. add a table userSopra to db
+2. In library add 2 methods
+3. adduser(), getusers()
+4. In mvc, create 2 class
+5. Login and Register:UserSopra
+6. Controller create 2 action method
+7. Login(), HttpPost of login
+8. Register(), HttpPost of Register
+9. Scaffold the login view and
+register view
